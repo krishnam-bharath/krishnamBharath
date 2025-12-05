@@ -8,9 +8,10 @@
 
 ---
 
-## 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnam-bharath-67528228a/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:krishnambharath2005@gmail.com)
+## 🤝 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnam-bharath-67528228a/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnambharath2005@gmail.com)
 
 ---
 
@@ -23,6 +24,7 @@
 ---
 
 ## 📊 My GitHub Stats
+
 ![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnam-bharath&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=krishnam-bharath&theme=radical)
