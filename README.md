@@ -14,7 +14,7 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" width="50" />
   </a>
 
-  <a href="mailto:krishnambharath2005@gmail.com" target="_blank">
+   <a href="mailto:krishnambharath2005@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="50" />
   </a>
 </p>
