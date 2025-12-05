@@ -10,10 +10,15 @@
 
 ## 🤝 Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnam-bharath-67528228a/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnambharath2005@gmail.com)
+  <a href="https://www.linkedin.com/in/krishnam-bharath-67528228a/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="50" />
+  </a>
 
----
+  <a href="mailto:krishnambharath2005@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="50" />
+  </a>
+</p>
+
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech CSE (Cloud Computing) at SRM University  
