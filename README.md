@@ -6,9 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&width=500&lines=Cloud+%26+DevOps+Enthusiast;B.Tech+CSE+(Cloud+Computing);Open+to+Internships;Let's+Build+Something+Awesome+🚀" alt="Typing SVG" />
 </p>
 
----
+--- 
 
 ## 🤝 Connect with me  
+
+<p align="left">
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="50" />
+  </a>
 
   <a href="https://www.linkedin.com/in/krishnam-bharath-67528228a/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="50" />
@@ -19,6 +24,15 @@
   </a>
 </p>
 
+---
+
+## 👨‍💻 About Me
+- 🎓 B.Tech CSE (Cloud Computing) at SRM University  
+- ☁️ Cloud Computing & DevOps Enthusiast  
+- 📈 Open to internships and collaborative projects  
+- 🛠️ Skilled in AWS, Linux, Virtualization, DevOps Tools  
+
+---
 
 ## 📊 My GitHub Stats
 
