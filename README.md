@@ -10,11 +10,6 @@
 
 ## 🤝 Connect with me  
 
-<p align="left">
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="50" />
-  </a>
-
   <a href="https://www.linkedin.com/in/krishnam-bharath-67528228a/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="50" />
   </a>
