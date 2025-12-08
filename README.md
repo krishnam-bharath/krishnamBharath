@@ -8,7 +8,7 @@
 
 ---
 
-## 🤝 Connect with me  
+ ## 🤝 Connect with me  
 
 <p align="left">
   <a href="https://www.instagram.com/" target="_blank">
